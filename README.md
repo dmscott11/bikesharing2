@@ -1,14 +1,21 @@
 # Bikesharing
 ## Overview
-In an effort to grow the CitiBike franchise, an expansion into Des Moines, Iowa has been planned. To successfully implement this new division in CitiBike, it is important to understand who our target demographic is, and how best to maintain our assets (the citibikes). The majority of this analysis focuses on identifying the trips, times, and users that often utilize these citibikes. 
+In an effort to grow the CitiBike franchise, an expansion into Des Moines, Iowa has been planned. To successfully implement this new division in CitiBike, it is important to understand who our target demographic is, and how best to maintain our assets (the citibikes). The majority of this analysis focuses on identifying the trips, times, and users that often utilize these citibikes. The [Tableau Public](https://public.tableau.com/app/profile/dylan.scott4515/viz/CitiBikeChallenge_16615510323660/MarketingStrategyandUpkeep?publish=yes) file is available for viewing.
 ## Results
 ### User Trips by Gender
+![](/images/usertrips_gender.png)
 ### Trips by Weekday (Per Hour)
+![](/images/weekday_hour.png)
 ### Trips by Gender
+![](/images/trips_gender_hour.png)
 ### Checkout Times by Users
+![](/images/checkout_time.png)
 ### Checkout Times by Gender
+![](/images/checkout_gender.png)
 ### Peak Hours
+![](/images/peakhours.png)
 ### Bikes Needing Repairs
+![](/images/bike_repair.png)
 ## Summary
 Overall, it can be seen that our target demographic should be males as they are significantly more likely to utilize CitiBike services. This focus can occur by using targeted advertisements which could be found in predominately male areas (i.e. sporting venues). Additionally, the maintenance of citibikes is crucial so we identified a method to identify which bikes see the most useage, and when maintenance should occur on those bikes. This maintenance will not impact the availability of citibikes as it will occur during off peak-hours. 
 ### Suggested Visualizations
