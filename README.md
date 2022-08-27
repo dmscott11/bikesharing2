@@ -26,6 +26,3 @@ Overall, it can be seen that our target demographic should be males as they are 
 ### Suggested Visualizations
 - Heatmap for Des Moines indicating which areas see the most foot traffic. These areas will also likely see a greater use of citibikes. 
 - If possible, it would also be useful to see how much of the citibike traffic in Manhatten is due to tourism. Having users registers as "tourists" or "locals" could help provide more insight into daily use. Using this data we would create a chart with tourism filtered out of it to allow for a greater understanding. 
-
-
-https://public.tableau.com/app/profile/dylan.scott4515/viz/CitiBikeChallenge_16615510323660/MarketingStrategyandUpkeep?publish=yes
